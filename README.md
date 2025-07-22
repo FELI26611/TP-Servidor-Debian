@@ -10,6 +10,6 @@ Este repositorio contiene los entregables comprimidos del servidor configurado e
 - /proc
 - /www_dir
 - /backup_dir
-- /var (spliteado)
+- /var https://drive.google.com/drive/folders/1bONhqCFI7KPuyqyfDzodFCL8s8G5TY5Q?usp=drive_link
 ··Scripts Desarrollados
 - /opt/scripts/backup_full.sh
