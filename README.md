@@ -1,7 +1,7 @@
 # Trabajo Práctico - Servidor Debian
 
 **Participantes:**
-- Feli Erasun
+- Felipe Erasun
 
 Este repositorio contiene los entregables comprimidos del servidor configurado en Debian, incluyendo:
 - /root
